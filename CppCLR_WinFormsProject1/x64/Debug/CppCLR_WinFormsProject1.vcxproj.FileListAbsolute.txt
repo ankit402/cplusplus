@@ -1,0 +1,3 @@
+E:\Learn programming\New folder\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.vcxproj.SuggestedBindingRedirects.cache
+E:\Learn programming\New folder\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.Form1.resources
+E:\Learn programming\New folder\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.vcxproj.GenerateResource.cache
